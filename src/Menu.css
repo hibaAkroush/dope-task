@@ -1,0 +1,206 @@
+#menu {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 384px;
+width: 64px;
+background: linear-gradient(
+	rgba(162, 31, 97, 1),
+	rgba(235, 48, 49, 1)
+	);
+}
+
+#logo{
+position: absolute;
+color:white;
+font-family: "Helvetica Neue Light";
+top: 20px;
+left: 7px;
+font-size: 68%;
+
+}
+
+.block{
+position: absolute;
+top: 38px;
+left: 0px;
+height: 122px;
+width: 64px;
+background-color: rgba(255, 255, 255, 0.09);
+box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.24);
+}
+
+#Events {
+position: absolute;
+top: 45px;
+left: 5px;
+height: 9px;
+width: 24px;
+font-family: 'Helvetica Neue';
+font-size: 8px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+}
+
+.block1 {
+position: absolute;
+top: 56px;
+left: 8px;
+height: 99px;
+width: 44px;
+font-family: 'Helvetica Neue';
+font-size: 7px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+line-height: 17px;
+}
+
+#membership {
+position: absolute;
+top: 172px;
+left: 5px;
+height: 9px;
+width: 48px;
+font-family: 'Helvetica Neue';
+font-size: 8px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+}
+
+#border1{
+position: absolute;
+top: 189px;
+left: 0px;
+height: 1px;
+width: 64px;
+border: 0.1px solid rgba(255, 255, 255, 1);
+opacity: 0.5;
+
+}
+
+#border3{
+position: absolute;
+top: 296px;
+left: 0px;
+height: 1px;
+width: 64px;
+border: 0.1px solid rgba(255, 255, 255, 1);
+opacity: 0.5;
+
+}
+
+#border2{
+position: absolute;
+top: 218px;
+left: 0px;
+height: 1px;
+width: 64px;
+border: 0.1px solid rgba(255, 255, 255, 1);
+opacity: 0.5;
+}
+#seasonal {
+position: absolute;
+top: 195px;
+left: 5px;
+height: 18px;
+width: 32px;
+font-family: 'Helvetica Neue';
+font-size: 8px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+}
+
+#purchases{
+position: absolute;
+top: 227px;
+left: 5px;
+height: 9px;
+width: 37px;
+font-family: 'Helvetica Neue';
+font-size: 8px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+}
+
+
+#about{
+position: absolute;
+top: 306px;
+left: 7px;
+height: 8px;
+width: 39px;
+font-family: 'Helvetica Neue';
+font-size: 6px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+}
+
+#contacts{
+position: absolute;
+top: 320px;
+left: 11px;
+height: 8px;
+width: 31px;
+font-family: 'Helvetica Neue';
+font-size: 6px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+}
+
+#help{
+position: absolute;
+top: 336px;
+left: 11px;
+height: 8px;
+width: 33px;
+font-family: 'Helvetica Neue';
+font-size: 6px;
+font-weight: 500;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+}
+
+
+#border4{
+position: absolute;
+top: 354px;
+left: 1px;
+height: 1px;
+width: 63px;
+border: 0.1px solid rgba(255, 255, 255, 1);
+opacity: 0.5;	
+}
+
+#user{
+	position: absolute;
+top: 361px;
+left: 12px;
+height: 18px;
+width: 31px;
+font-family: 'Helvetica Neue';
+font-size: 10px;
+font-weight: 300;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+line-height: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
