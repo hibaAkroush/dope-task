@@ -1,0 +1,64 @@
+#group{
+	position: absolute;
+top: 50px;
+left: 70px;
+height: 145px;
+width: 644px;
+background-color: rgba(36, 68, 115, 1);
+border-radius: 2px;
+
+}
+
+#header{
+position: absolute;
+top: 78px;
+left: 103px;
+height: 28px;
+width: 224px;
+font-family: 'Helvetica Neue';
+font-size: 24px;
+font-weight: 300;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+}
+
+#Lorem {
+position: absolute;
+top: 111px;
+left: 104px;
+height: 32px;
+width: 294px;
+font-family: 'Helvetica Neue';
+font-size: 9px;
+color: rgba(255, 255, 255, 1);
+text-align: left;
+}
+
+#more{
+position: absolute;
+top: 159px;
+left: 103px;
+height: 17px;
+width: 70px;
+border: 1px solid rgba(255, 255, 255, 1);
+border-radius: 8px;
+}
+
+#more1{
+position: absolute;
+top: 164px;
+left: 130px;
+height: 9px;
+width: 17px;
+font-family: 'Helvetica Neue';
+font-size: 8px;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+}
+
+
+
+
+
+
+

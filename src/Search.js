@@ -5,6 +5,7 @@ import tw from "./web/twitter-3x.png"
 import insta from "./web/instagram-3x.png"
 import SearchButton from "./web/1.png"
 import dd from "./web/dd.png"
+
 class Search extends Component {
   render() {
     return (
