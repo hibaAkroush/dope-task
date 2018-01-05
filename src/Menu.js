@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Menu.css';
+import { Link } from 'react-router-dom';
 
 
 class Menu extends Component {
@@ -7,11 +8,11 @@ class Menu extends Component {
     return (
       <div id="menu">
 
-      	<p id="logo">MAKANI</p>
+      	<Link to="/page2"><p id="logo">MAKANI</p></Link>
 
       	<div className="block"></div>
 
-      	<p id="Events">Events</p>
+      	<Link to="/"><p id="Events">Events</p></Link>
       	<div className="block1">Sports (20)<br/>Festivals (11)<br/>Conderence (1)<br/>Family (30)<br/>Business (22) <br/>VIP (33)</div>
 
       	<p id="membership">Membership</p>

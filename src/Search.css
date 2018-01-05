@@ -1,0 +1,110 @@
+#block{
+	position: absolute;
+	top: 0px;
+	left: 64px;
+	height: 35px;
+	width: 668px;
+	background-color: rgba(255, 255, 255, 0.6);
+	border: 1px solid rgba(225, 225, 225, 1);
+}
+#searchButton{
+	position: absolute;
+	top: 10px;
+	left: 77px;
+	height: 15px;
+	width: 15px;
+
+}
+#input{
+	position: absolute;
+	top: 6px;
+	left: 71px;
+	height: 20px;
+	width: 215px;
+	border: 1px solid rgba(225, 224, 224, 1);
+	border-radius: 2px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+#value{
+	position: absolute;
+	top: 15px;
+	left: 96px;
+	height: 8px;
+	width: 63px;
+	font-family: 'Helvetica Neue';
+	font-size: 7px;
+	font-weight: 300;
+	color: rgba(150, 149, 151, 1);
+	text-align: left;
+}
+#textWeek{
+	position: absolute;
+	top: 15px;
+	left: 430px;
+	height: 8px;
+	width: 30px;
+	font-family: 'Helvetica Neue';
+	font-size: 7px;
+	font-weight: 300;
+	color: rgba(150, 149, 151, 1);
+	text-align: left;
+}
+#choose{
+	position: absolute;
+	top: 6px;
+	left: 305px;
+	height: 23px;
+	width: 90px;
+	border: 1px solid rgba(225, 224, 224, 1);
+	border-radius: 2px;
+	background-color: rgba(255, 255, 255, 0.6);
+
+}
+#textChoose{
+	position: absolute;
+	top: 15px;
+	left: 321px;
+	height: 8px;
+	width: 37px;
+	font-family: 'Helvetica Neue';
+	font-size: 7px;
+	font-weight: 300;
+	color: rgba(150, 149, 151, 1);
+	text-align: left;
+}
+#week{
+	position: absolute;
+	top: 6px;
+	left: 412px;
+	height: 23px;
+	width: 90px;
+	border: 1px solid rgba(225, 224, 224, 1);
+	border-radius: 2px;
+	background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+#tw{
+	position: absolute;
+	top: 10px;
+	left: 637px;
+	height: 14px;
+	width: 14px;
+}
+
+#fb{
+	position: absolute;
+	top: 10px;
+	left: 659px;
+	height: 14px;
+	width: 14px;
+}
+
+#insta{
+	position: absolute;
+	top: 10px;
+	left: 680px;
+	height: 15px;
+	width: 15px;
+
+}
