@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ListItem from "./ListItem.js"
+import "./List1.css"
 
 const List1 = (props) => {
 	console.log(props.elems)
@@ -12,7 +13,7 @@ const List1 = (props) => {
 			)
 	}) 
     return (
-    	<div>
+    	<div className="wrapper">
     	{intery}
     	</div>
     )
